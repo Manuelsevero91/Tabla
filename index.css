@@ -1,0 +1,20 @@
+table {
+    background-color: aqua;
+    margin: 20px;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    width: 400px;
+  }
+  
+  th, td {
+    border: 1px solid;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: rgb(221, 18, 35);
+    color: #333;
+    
+  }
+  
